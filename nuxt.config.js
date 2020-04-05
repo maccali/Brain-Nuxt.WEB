@@ -1,6 +1,5 @@
 export default {
   mode: 'universal',
-  // mode: 'spa',
   /*
    ** Headers of the page
    */
@@ -50,10 +49,6 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module'
   ],
-  // icons: {
-  //   solid: ['faHome'],
-  //   regular: ['faAdjust']
-  // },
   /*
    ** Nuxt.js modules
    */
@@ -62,7 +57,9 @@ export default {
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
-    '@nuxtjs/dotenv'
+    '@nuxtjs/dotenv',
+    // Doc: https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt
+    'cookie-universal-nuxt'
   ],
   /*
    ** Axios module configuration
