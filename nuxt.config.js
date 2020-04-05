@@ -1,5 +1,6 @@
 export default {
   mode: 'universal',
+  // mode: 'spa',
   /*
    ** Headers of the page
    */
@@ -28,6 +29,8 @@ export default {
       }
     ]
   },
+  serverMiddleware: ['~/serverMiddleware/selective.js'],
+
   /*
    ** Customize the progress-bar color
    */

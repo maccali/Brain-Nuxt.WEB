@@ -1,6 +1,7 @@
 <template>
   <div>
     <NavBar />
+    STATIC
   </div>
 </template>
 
@@ -10,7 +11,6 @@ import NavBar from '~/components/navbar/NavBar'
 export default {
   components: {
     NavBar
-  },
-  middleware: 'spa'
+  }
 }
 </script>
