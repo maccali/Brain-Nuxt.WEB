@@ -1,7 +1,7 @@
 ## BrainNuxt
 ---
 
-![alt text](https://github.com/maccali/guilhermemaccali.com/blob/master/.github/banner.png)
+![Banner for BrainNUXT](https://github.com/maccali/BrainNUXT/blob/master/.github/banner.png)
 
 ### Description
 > BrainNuxt is a Boilerplate based in NuxtJS 
