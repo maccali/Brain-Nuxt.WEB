@@ -1,8 +1,35 @@
-# BrainNuxt
+## BrainNuxt
+---
 
-> PWA, API, SSR, SPA, static, per page selection 
+![alt text](https://github.com/maccali/guilhermemaccali.com/blob/master/.github/banner.png)
 
-## Build Setup
+### Description
+> BrainNuxt is a Boilerplate based in NuxtJS 
+
+### Technology
+> ---
+> * [NuxtJS](https://nuxtjs.org/?brainnuxt=true)
+> * [VueJS](https://vuejs.org/?brainnuxt=true)
+> * [Bootstrap (Grid system)](https://getbootstrap.com/?brainnuxt=true)
+> * [Axios](https://axios.nuxtjs.org/?brainnuxt=true)
+> * [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/?brainnuxt=true)
+> * [Jest](https://jestjs.io/?brainnuxt=true)
+> * [ESLint](https://eslint.org/?brainnuxt=true)
+> * [Prettier](https://prettier.io/?brainnuxt=true)
+> ---
+
+### Features
+> ---
+> * PWA "Instalation"
+> * Selective per page SSR or SPA
+> * The smallest import for FontAwesome
+> * Generalist or component CSS
+> * Inteligent Nuxt Router 
+> * Simple Grid System of Bootstrap
+> * Vue Components
+> ---
+
+### Build Setup 
 
 ```bash
 # install dependencies
@@ -19,4 +46,3 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
