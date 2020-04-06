@@ -46,6 +46,9 @@
 i {
   font-size: 15px;
 }
+blockquote {
+  text-align: center;
+}
 blockquote i {
   font-size: 20px;
 }

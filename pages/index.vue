@@ -22,23 +22,6 @@ export default {
     Footer,
     Spacer,
     PageType
-  },
-  methods: {
-    displayLocationInfo(position) {
-      const lng = position.coords.longitude
-      const lat = position.coords.latitude
-
-      console.log(`longitude: ${lng} | latitude: ${lat}`)
-    }
-  },
-  mounted() {
-    if (navigator.geolocation) {
-      console.log(
-        navigator.geolocation.getCurrentPosition(this.displayLocationInfo)
-      )
-    } else {
-      // no can do
-    }
   }
 }
 </script>

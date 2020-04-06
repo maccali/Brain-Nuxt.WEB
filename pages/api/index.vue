@@ -4,8 +4,9 @@
     <Spacer :height="71" :bgVar="`bg-color-tres`" />
     <Apresentation />
     <PageType :type="`SSR`" />
+    <YourIP :ip="ip" />
+    <GeoPoints />
     <Footer />
-    {{ ip }}
   </div>
 </template>
 
@@ -15,6 +16,8 @@ import Apresentation from '~/components/sections/Apresentation'
 import Footer from '~/components/footer/Footer'
 import Spacer from '~/components/utils/Spacer'
 import PageType from '~/components/sections/PageType'
+import YourIP from '~/components/sections/YourIP'
+import GeoPoints from '~/components/sections/GeoPoints'
 
 export default {
   components: {
@@ -22,21 +25,14 @@ export default {
     Apresentation,
     Footer,
     Spacer,
-    PageType
+    PageType,
+    YourIP,
+    GeoPoints
   },
   async asyncData({ $axios }) {
     const ip = await $axios.$get('http://icanhazip.com')
     // this.ip = ip
     return { ip }
-  },
-  data() {
-    return {
-      // ip
-    }
-  },
-
-  mounted() {
-    this.ip = this.ip + 'oi'
   },
   head() {
     return {

@@ -10,11 +10,14 @@
           </div>
           <div>
             <ul>
-              <nuxt-link to="/ssr">
+              <nuxt-link to="/">
                 <li>SSR</li>
               </nuxt-link>
               <nuxt-link to="/spa">
                 <li>SPA</li>
+              </nuxt-link>
+              <nuxt-link to="/api">
+                <li>API</li>
               </nuxt-link>
             </ul>
             <a
