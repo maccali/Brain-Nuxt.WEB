@@ -23,6 +23,7 @@
 > * <b>SSR</b> - Universal Mode
 > * <b>PWA</b> "Instalation"
 > * <b>SEO</b> Preset: robots, sitemap, header on SSR
+> * Google Analytics
 > * <b>Selective</b> per page <b>SSR</b> or <b>SPA</b>
 > * The smallest import for <b>FontAwesome</b>
 > * Simple Grid System of <b>Bootstrap</b>
