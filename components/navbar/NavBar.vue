@@ -66,6 +66,7 @@ ul {
   display: inline-flex;
   list-style: none;
   padding: 0;
+  margin: 0;
   height: 100%;
 }
 ul a {
