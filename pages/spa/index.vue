@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavBar />
-    <Spacer :height="71" :bgVar="`bg-color-tres`" />
+    <Spacer :height="71" />
     <Apresentation />
     <PageType :type="`SPA`" />
     <Footer />
