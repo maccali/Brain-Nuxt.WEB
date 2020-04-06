@@ -38,6 +38,17 @@ export default {
   serverMiddleware: ['~/serverMiddleware/selective.js'],
 
   /*
+   ** Customize PWA
+   */
+  pwa: {
+    manifest: {
+      name: 'BrainNUXT',
+      lang: 'br',
+      display: 'standalone',
+      description: 'BrainNuxt is a Boilerplate based in NuxtJS'
+    }
+  },
+  /*
    ** Customize the progress-bar color
    */
   loading: { color: '#3b8070' },
