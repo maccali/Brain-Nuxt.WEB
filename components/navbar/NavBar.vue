@@ -45,8 +45,12 @@
 .container-fluid {
   display: flex;
   align-items: center;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
   height: 70px;
-  background-color: #e4e4e4;
+  background-color: #ececec;
 }
 nav {
   display: flex;
