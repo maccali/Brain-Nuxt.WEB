@@ -23,6 +23,10 @@ export default {
       // ip
     }
   },
+
+  mounted() {
+    this.ip = this.ip + 'oi'
+  },
   head() {
     return {
       meta: [
@@ -39,10 +43,6 @@ export default {
         }
       ]
     }
-  },
-
-  mounted() {
-    this.ip = this.ip + 'oi'
   }
 }
 </script>

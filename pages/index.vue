@@ -10,7 +10,6 @@ import NavBar from '~/components/navbar/NavBar'
 export default {
   components: {
     NavBar
-  },
-  middleware: 'spa'
+  }
 }
 </script>

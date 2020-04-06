@@ -20,13 +20,16 @@
 
 ### Features
 > ---
-> * PWA "Instalation"
-> * Selective per page SSR or SPA
-> * The smallest import for FontAwesome
+> * <b>SSR</b> - Universal Mode
+> * <b>PWA</b> "Instalation"
+> * <b>SEO</b> Preset: robots, sitemap, header on SSR
+> * <b>Selective</b> per page <b>SSR</b> or <b>SPA</b>
+> * The smallest import for <b>FontAwesome</b>
+> * Simple Grid System of <b>Bootstrap</b>
 > * Generalist or component CSS
-> * Inteligent Nuxt Router 
-> * Simple Grid System of Bootstrap
-> * Vue Components
+> * Inteligent <b>Nuxt Router</b>
+> * Server-side <b>Cookies</b> for important data
+> * <b>Google Site Verification</b>
 > ---
 
 ### Build Setup 

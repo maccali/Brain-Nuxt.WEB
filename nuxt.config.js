@@ -1,3 +1,5 @@
+const env = require('dotenv').config().parsed
+
 export default {
   mode: 'universal',
   /*
@@ -8,6 +10,11 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        hid: 'google-site-verification',
+        name: 'google-site-verification',
+        content: env.GOOGLE_SITE_VERIFICATION || ''
+      },
       {
         hid: 'description',
         name: 'description',
