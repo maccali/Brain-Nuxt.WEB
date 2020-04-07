@@ -86,11 +86,11 @@
 </p>
 
 ### See Examples
-![Api Get Example](https://github.com/maccali/BrainNUXT/blob/master/.github/screen/api-get.png)
-![Coordenadas](https://github.com/maccali/BrainNUXT/blob/master/.github/screen/coords.png)
-![GeoLocation](https://github.com/maccali/BrainNUXT/blob/master/.github/screen/geo-point.png)
-![Navigation](https://github.com/maccali/BrainNUXT/blob/master/.github/screen/nav.png)
-![Api Page](https://github.com/maccali/BrainNUXT/blob/master/.github/screen/page-api.png)
+![Api Get Example](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/api-get.png)
+![Coordenadas](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/coords.png)
+![GeoLocation](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/geo-point.png)
+![Navigation](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/nav.png)
+![Api Page](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/page-api.png)
 
 ### Features
 > ---
