@@ -23,7 +23,7 @@
 
 <p>This get the env variable and create the meta tag for Google Site Verification</p>
 <p align="center">
-  <img alt="Google Site Verification" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/code/verification/verification-config.png">
+  <img alt="Google Site Verification" src="https://github.com/maccali/BrainNUXT/blob/master/.github/code/verification/verification-config.png">
 </p>
 
 > .env
