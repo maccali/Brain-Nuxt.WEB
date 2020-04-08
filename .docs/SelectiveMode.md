@@ -31,8 +31,8 @@ but if you need the route to be spa you need to put on <b>spaPaths</b> Array</p>
 
 <hr>
 <p align="center">
-  <a href="https://github.com/maccali/BrainNUXT/blob/master/.docs/Index.md">
-    <img alt="Documentation" src="https://img.shields.io/static/v1?label=GO TO&message=DOCS INDEX&color=7159c1&labelColor=000000&style=flat-square">
+ <a href="https://github.com/maccali/BrainNUXT/blob/master/.docs/Index.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/GO TO-DOCS INDEX-0.svg?style=flat-square&labelColor=000000&color=7159c1">
   </a>
 </p>
 

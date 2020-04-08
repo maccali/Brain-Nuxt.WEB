@@ -15,11 +15,9 @@
   <i>Documentation</i>
 </p>
 <p align="center">
-<p align="center">
-  <a href="https://github.com/maccali/BrainNUXT/blob/master/.docs/Index.md">
-    <img alt="Documentation" src="https://img.shields.io/static/v1?label=GO TO&message=DOCS&color=7159c1&labelColor=000000&style=flat-square">
-  </a>
-</p>
+  <a href="https://github.com/maccali/BrainNUXT/blob/master/.docs/Index.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/GO TO-DOCS-0.svg?style=flat-square&labelColor=000000&color=7159c1">
+  </a>  
 </p>
 
 <p align="center">
