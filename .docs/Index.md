@@ -9,5 +9,5 @@
 > * [SEO](https://github.com/maccali/BrainNUXT/blob/master/.docs/Seo.md)
 > * [Google](https://github.com/maccali/BrainNUXT/blob/master/.docs/Google.md)
 > * [Selective Mode](https://github.com/maccali/BrainNUXT/blob/master/.docs/SelectiveMode.md)
-> * [PWA](https://github.com/maccali/BrainNUXT/blob/master/.docs/pwa.md)
+> * [PWA](https://github.com/maccali/BrainNUXT/blob/master/.docs/Pwa.md)
 > ---
