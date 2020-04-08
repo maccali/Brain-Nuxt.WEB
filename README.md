@@ -7,10 +7,16 @@
   <i>Info</i>
 </p>
 <p align="center">
-  <a href=""><img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000&style=flat-square" /></a>
-  <a href=""><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000&style=flat-square"></a>
+  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000&style=flat-square" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000&style=flat-square">
 </p>
 
+<p align="center">
+  <i>Documentation</i>
+</p>
+<p align="center">
+  <a href="https://github.com/maccali/BrainNUXT/blob/master/.docs/Index.md"><img alt="Documentation" src="https://img.shields.io/static/v1?style=for-the-badge&label=GO TO&message=DOCS&color=7159c1&labelColor=000000"></a>
+</p>
 
 <p align="center">
   <i>Techs</i>
@@ -23,8 +29,11 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="Node" src="https://img.shields.io/badge/node-12.13.1-0.svg?style=flat-square&labelColor=000000">
   </a>
+  <a href="https://yarnpkg.com" target="_blank">
+    <img alt="Yarn" src="https://img.shields.io/badge/Yarn-1.22.4-0.svg?style=flat-square&color=2c8ebb&labelColor=000000">
+  </a>
   <a href="https://nuxtjs.org/?brainnuxt=true" target="_blank">
-    <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-2-0.svg?style=flat-square&color=108775&labelColor=000000">
+    <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-2.12.x-0.svg?style=flat-square&color=108775&labelColor=000000">
   </a>
   <a href="https://github.com/axios/axios" target="_blank">
     <img alt="Axios" src="https://img.shields.io/badge/Axios-0.19.2-0.svg?style=flat-square&color=1f7cb1&labelColor=000000">
@@ -58,6 +67,9 @@
   </a>
   <a href="https://support.google.com/webmasters/answer/9008080?hl=pt-BR" target="_blank">
     <img alt="Google Site Verification" src="https://img.shields.io/badge/Google-Site Verification-0.svg?style=flat-square&color=f36&labelColor=000000" />
+  </a>
+  <a href="https://fonts.google.com" target="_blank">
+    <img alt="Google Fonts" src="https://img.shields.io/badge/Google-Fonts-0.svg?style=flat-square&color=ff5252&labelColor=000000" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/" target="_blank">
     <img alt="PWA" src="https://img.shields.io/badge/PWA--0.svg?style=flat-square&color=5a0fc8&labelColor=000000">
