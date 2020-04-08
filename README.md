@@ -87,30 +87,31 @@
 
 ### See Examples
 
-<p align="center">
+<p>
   <b>This is API page</b>
 </p>
-<p align="center">
+<p>
   <i>This page have an example of asyncData get with Axios in server side api consumption using SSR method, and access WEB GeoLocation API</i>
 </p>
 <p align="center">
   <img alt="Api Page" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/page-api.png">
 </p>
-
-<p align="center">
+<hr>
+<p>
   <b>Result of asyncData get on server side</b>
 </p>
-<p align="center">
+<p>
   <i>In this example get IP information from an API</i>
 </p>
 <p align="center">
   <img alt="Api Get Example" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/api-get.png">
 </p>
 
-<p align="center">
+<hr>
+<p>
   <b>In this example, button asks for permission to access Geolocation position</b>
 </p>
-<p align="center">
+<p>
   <i>Without localhost you need SSL/HTTPS active to use</i>
 </p>
 <p align="center">
@@ -120,10 +121,11 @@
   <img alt="Coordenadas" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/coords.png">
 </p>
 
-<p align="center">
+<hr>
+<p>
   <b>Navigation</b>
 </p>
-<p align="center">
+<p>
   <i>/spa page is render on client side, disable JavaScript to Test</i>
 </p>
 <p align="center">
