@@ -86,11 +86,51 @@
 </p>
 
 ### See Examples
-![Api Get Example](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/api-get.png)
-![Coordenadas](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/coords.png)
-![GeoLocation](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/geo-point.png)
-![Navigation](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/nav.png)
-![Api Page](https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/page-api.png)
+
+<p align="center">
+  <b>This is API page</b>
+</p>
+<p align="center">
+  <i>This page have an example of asyncData get with Axios in server side api consumption using SSR method, and access WEB GeoLocation API</i>
+</p>
+<p align="center">
+  <img alt="Api Page" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/page-api.png">
+</p>
+
+<p align="center">
+  <b>Result of asyncData get on server side</b>
+</p>
+<p align="center">
+  <i>In this example get IP information from an API</i>
+</p>
+<p align="center">
+  <img alt="Api Get Example" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/api-get.png">
+</p>
+
+<p align="center">
+  <b>In this example, button asks for permission to access Geolocation position</b>
+</p>
+<p align="center">
+  <i>Without localhost you need SSL/HTTPS active to use</i>
+</p>
+<p align="center">
+  <img alt="GeoLocation" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/geo-point.png">
+</p>
+<p align="center">
+  <img alt="Coordenadas" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/coords.png">
+</p>
+
+<p align="center">
+  <b>Navigation</b>
+</p>
+<p align="center">
+  <i>/spa page is render on client side, disable JavaScript to Test</i>
+</p>
+<p align="center">
+  <img alt="Navigation" src="https://github.com/maccali/BrainNUXT/blob/maccali/.github/screen/nav.png">
+</p>
+
+
 
 ### Features
 > ---
@@ -107,13 +147,13 @@
 > * <b>Google Site Verification</b>
 > ---
 
-### Build Setup 
+### Quick Setup
 
 ```bash
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:8000
 $ yarn dev
 
 # build for production and launch server
